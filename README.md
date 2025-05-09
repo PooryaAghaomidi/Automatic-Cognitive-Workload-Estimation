@@ -1,4 +1,4 @@
-# Automatic-Cognitive-Workload-Estimation
+# Automatic Cognitive Workload Estimation
 Contemplate On ECG Signal And Enhanced Automatic Cognitive Workload Estimation Using CNN And A Hybrid CNN-LSTM Network 
 
 SEI-CNN is a repository that introduces a novel approach for estimating cognitive workload using a Single Electrocardiogram Input Convolutional Neural Network. This method is designed to extract deep features and classify them into different workload levels. The performance of this method has been assessed and compared to other existing approaches in the domain of estimating cognitive workload.
